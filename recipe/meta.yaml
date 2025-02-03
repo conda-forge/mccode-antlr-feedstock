@@ -46,6 +46,7 @@ test:
     - mcxtrace-antlr --help
     - mcrun-antlr --help
     - mxrun-antlr --help
+    - mccode-antlr --help
   source_files:
     - tests
   requires:
