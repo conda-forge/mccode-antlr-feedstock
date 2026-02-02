@@ -59,7 +59,7 @@ test:
     - h5py
 
 about:
-  home: https://github.com/McStasMcXtrace/mccode-antlr
+  home: https://github.com/mccode-dev/mccode-antlr
   summary: McCode grammar implemented with ANTLR4
   description: |
     The mccode-antlr package provides a command-line interface to the McCode
@@ -67,8 +67,8 @@ about:
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
-  doc_url: https://github.com/McStasMcXtrace/mccode-antlr
-  dev_url: https://github.com/McStasMcXtrace/mccode-antlr
+  doc_url: https://github.com/mccode-dev/mccode-antlr
+  dev_url: https://github.com/mccode-dev/mccode-antlr
 
 extra:
   recipe-maintainers:
