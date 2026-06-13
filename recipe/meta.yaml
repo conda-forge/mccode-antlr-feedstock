@@ -38,6 +38,7 @@ requirements:
     - msgspec >=0.19.0
     - networkx >=3.0
     - sympy >=1.12
+    - scipp >=26.3.1
 
 test:
   imports:
@@ -59,6 +60,7 @@ test:
     - pip
     - c-compiler
     - h5py
+    - scipp
 
 about:
   home: https://github.com/mccode-dev/mccode-antlr
