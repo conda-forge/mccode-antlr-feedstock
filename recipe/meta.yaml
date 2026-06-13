@@ -59,6 +59,7 @@ test:
     - pip
     - c-compiler
     - h5py
+    - scipp
 
 about:
   home: https://github.com/mccode-dev/mccode-antlr
