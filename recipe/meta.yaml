@@ -27,6 +27,7 @@ requirements:
     - setuptools_scm >=6.2
     - antlr4-python3-runtime >=4.13.2
     - antlr4-tools
+    - dirent  # [win]
   run:
     - python >={{ python_min }}
     - numpy >=2.0
@@ -38,6 +39,7 @@ requirements:
     - msgspec >=0.19.0
     - networkx >=3.0
     - sympy >=1.12
+    - dirent  # [win]
 
 test:
   imports:
