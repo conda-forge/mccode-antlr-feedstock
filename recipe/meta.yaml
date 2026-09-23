@@ -1,4 +1,4 @@
-{% set version = "0.29.0" %}
+{% set version = "0.30.0" %}
 
 package:
   name: mccode-antlr
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/m/mccode_antlr/mccode_antlr-{{ version }}.tar.gz
-  sha256: 2834adac04a1a4243d9eeb434fcf7bb5e21f9cdf4c7a3acaef758762f62641b8
+  sha256: 5325b4c30fd25c4e4f0aa6c6e37622d0b5aaa812826982d3cb60e738ecadb696
 
 build:
   noarch: python
